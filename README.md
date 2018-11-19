@@ -6,13 +6,12 @@
 
 * [Course Information](#course-information)
 * [Instructors](#instructors)
-* [Assignments](#assignments)
 * [Announcement](#announcement)
 
 
 ## Course Information:
 ECE 418 is a senior-level class on various topics in image processing. The course assumes a working familiarity with C or C++ programming, MATLAB programming, UNIX environment, and basic signal processing.
-The laboratory sessions provide hands-on experience implementing image processing methods using C++ and MATLAB. Thirteen labs cover topics such as the two-dimensional Fourier transform, image and video compression, and image and video enhancement.
+The laboratory sessions provide hands-on experience implementing image processing methods using C++ and MATLAB. Labs cover topics such as the two-dimensional Fourier transform, image and video compression, and image and video enhancement.
 
 Topics covered:
 
